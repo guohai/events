@@ -258,6 +258,7 @@ Join other voice AI builders in the Agora Discord community:
 | Pairing page does not open | Connect to the R1 hotspot and manually open `http://192.168.4.1/`. |
 | Cannot connect to Wi-Fi | Confirm the access point supports 2.4 GHz Wi-Fi, the antenna is connected securely, and the password is correct. |
 | Pairing code fails | Get the code on screen or from configuration page and put into Bot Station again. |
+| Pair or Activate does not respond | The R1 may have entered deep-sleep mode. Press Reset to wake it, then try Pair or Activate again. |
 | Bot does not respond | Confirm Wi-Fi is configured, the bot is saved, and the R1 is activated. |
 | Voice sounds wrong | Recheck the selected text-to-speech voice in Bot Station. |
 
