@@ -36,20 +36,13 @@ Links:
 Make sure the account, R1, and cable are ready before the live setup begins.
 
 - Computer with internet access
-- [Agora account](https://console.agora.io/) for Console login
 - One R1 (BK7258) development kit
 - USB cable for device flashing
-- [Agora account](https://console.agora.io/), [Sign Up](https://sso2.agora.io/en/signup) if you don't have it
+- [Agora account](https://console.agora.io/), for Console and Bot Station login. [Sign Up](https://sso2.agora.io/en/signup) if you don't have it
 - Create a project and make sure "Conversational AI Engine" is enabled(enabled by default if new created project)
 - Access to [Bot Station](https://botstation.sg3.agoralab.co/)
 
 Agora Physical AI connects AI systems to real-world devices so hardware can listen, speak, understand, and act. RiseLink supports the workshop with connectivity expertise across Wi-Fi 6, Bluetooth, Thread, and AI-integrated chips.
-
-Open these services before setup:
-
-1. [Agora Console](https://console.agora.io/)
-2. [RiseLink](https://www.riselink.ai/)
-3. [Bot Station](https://botstation.sg3.agoralab.co/)
 
 ## 3. Meet the R1 Voice Device
 
